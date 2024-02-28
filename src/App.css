@@ -2,3 +2,16 @@
   text-align: center;
   padding: 1rem;
 }
+.field {
+  padding-bottom: 1rem;
+}
+.field label {
+  padding-right: 1rem;
+}
+button {
+  padding: 0.5rem 1rem;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 16px;
+  margin-bottom: 1rem;
+}
